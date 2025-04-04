@@ -1,6 +1,8 @@
-<div align="center">
+<div>
 <h2>Olá! Me chamo Luiz Duarte 👋></h2>
+  
 <h3>Estudante de Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (UNOESTE). Apaixonado por construir soluções robustas e eficientes. Ao longo da minha jornada, já tive a oportunidade de desenvolver diversos sistemas monolíticos e APIs, sempre buscando aprimorar minhas habilidades e entregar soluções que agreguem valor.</h3>
+
 <h2>🌱 Experiência:</h2>
 
 - **Sistemas Monolíticos**:  
@@ -18,7 +20,10 @@
   Desenvolvi **Chatbots** com **Node.js** e **Dialogflow** para otimizar a experiência do usuário. Alguns projetos incluem:  
   - **Chatbot para Loja de Roupas**  
   - **Chatbot para Assistência Técnica**
-  - 
+ 
+<h2>🚀 Aprendizado Atual:</h2>
+
+Atualmente, estou aprendendo **Java** e **Spring Boot**. O objetivo é evoluir profissionalmente, explorar novas oportunidades e me aprofundar ainda mais no mundo da programação, além de ter me interessado muito pela linguagem.
 </div>
 
 <div align="center">
