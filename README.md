@@ -1,4 +1,25 @@
-<h2 align="center" Olá! Me chamo Luiz Duarte 👋/>
+<div align="center">
+<h2>Olá! Me chamo Luiz Duarte 👋></h2>
+<h3>Estudante de Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (UNOESTE).</h3>
+  ## 🌱 Experiência:
+
+- **Sistemas Monolíticos**:  
+  Desenvolvi vários sistemas utilizando **Node.js**, **Bootstrap**, **HTML** e **CSS**, incluindo:  
+  - **Sistema de E-commerce**  
+  - **Sistema de Adoção de Animais**  
+  - **Sistema de Eleições**  
+
+- **APIs Restful**:  
+  Criei **APIs RESTful** utilizando **Node.js** e **Swagger** para documentação. Alguns exemplos incluem:  
+  - **API RESTful de Matrícula Universitária**  
+  - **API RESTful de Gestão Imobiliária**  
+
+- **Chatbots**:  
+  Desenvolvi **Chatbots** com **Node.js** e **Dialogflow** para otimizar a experiência do usuário. Alguns projetos incluem:  
+  - **Chatbot para Loja de Roupas**  
+  - **Chatbot para Assistência Técnica**
+  - 
+</div>
 
 <div align="center">
 <h2>Back-End</h2>
