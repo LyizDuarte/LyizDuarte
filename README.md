@@ -1,4 +1,4 @@
-## Olá! Me chamo Luiz Duarte 👋
+<h2 align="center" Olá! Me chamo Luiz Duarte 👋/>
 
 <div align="center">
 <h2>Back-End</h2>
