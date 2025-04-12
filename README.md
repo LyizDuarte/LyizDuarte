@@ -23,7 +23,7 @@
  
 <h2>🚀 Aprendizado Atual:</h2>
 
-Atualmente, estou aprendendo **Java**,**Spring Boot**,**Next.js**,**SocketIo** e **Tailwindcss**. O objetivo é evoluir profissionalmente, explorar novas oportunidades e me aprofundar ainda mais no mundo da programação, além de ter me interessado muito pela linguagem.
+Atualmente, estou aprendendo **Java**, **Spring Boot**, **Next.js**, **SocketIo** e **Tailwindcss**. O objetivo é evoluir profissionalmente, explorar novas oportunidades e me aprofundar ainda mais no mundo da programação, além de ter me interessado muito pelas tecnologiás.
 </div>
 
 <div align="center">
