@@ -14,7 +14,8 @@
 - **APIs Restful**:  
   Criei **APIs RESTful** utilizando **Node.js** e **Swagger** para documentação. Alguns exemplos incluem:  
   - **API RESTful de Matrícula Universitária**  
-  - **API RESTful de Gestão Imobiliária**  
+  - **API RESTful de Gestão Imobiliária**
+  - **API RESTful de Gerenciamento Interno**
 
 - **Chatbots**:  
   Desenvolvi **Chatbots** com **Node.js** e **Dialogflow** para otimizar a experiência do usuário. Alguns projetos incluem:  
@@ -23,7 +24,7 @@
  
 <h2>🚀 Aprendizado Atual:</h2>
 
-Atualmente, estou aprendendo **Java**, **Spring Boot**, **Next.js**, **SocketIo** e **Tailwindcss**. O objetivo é evoluir profissionalmente, explorar novas oportunidades e me aprofundar ainda mais no mundo da programação, além de ter me interessado muito pelas tecnologiás.
+Atualmente, estou aprendendo **Java**, **Spring Boot**, **Next.js**, **TypeScript**, **SocketIo** e **Tailwindcss**. O objetivo é evoluir profissionalmente, explorar novas oportunidades e me aprofundar ainda mais no mundo da programação, além de ter me interessado muito pelas tecnologiás.
 </div>
 
 <div align="center">
