@@ -9,7 +9,8 @@
   Desenvolvi vários sistemas utilizando **Node.js**, **Javascript**, **Bootstrap**, **HTML** e **CSS**, incluindo:  
   - **Sistema de E-commerce**  
   - **Sistema de Adoção de Animais**  
-  - **Sistema de Eleições**  
+  - **Sistema de Eleições** 
+  - **Sistema de Classificados**
 
 - **APIs Restful**:  
   Criei **APIs RESTful** utilizando **Node.js** e **Swagger** para documentação. Alguns exemplos incluem:  
