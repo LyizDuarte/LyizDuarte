@@ -1,31 +1,31 @@
 <div>
-<h2>Olá! Me chamo Luiz Duarte 👋></h2>
+<h2>Hello! My name is Luiz Duarte 👋></h2>
   
-<h3>Estudante de Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (UNOESTE). Apaixonado por construir soluções robustas e eficientes. Ao longo da minha jornada, já tive a oportunidade de desenvolver diversos sistemas monolíticos e APIs, sempre buscando aprimorar minhas habilidades e entregar soluções que agreguem valor.</h3>
+<h3>Systems Analysis and Development student at Universidade do Oeste Paulista (UNOESTE). Passionate about building robust and efficient solutions. Throughout my journey, I have had the opportunity to develop several monolithic systems and APIs, always seeking to improve my skills and deliver solutions that add value.</h3>
 
-<h2>🌱 Experiência:</h2>
+<h2>🌱 Experience:</h2>
 
-- **Sistemas Monolíticos**:  
-  Desenvolvi vários sistemas utilizando **Node.js**, **Javascript**, **Bootstrap**, **HTML** e **CSS**, incluindo:  
-  - **Sistema de E-commerce**  
-  - **Sistema de Adoção de Animais**  
-  - **Sistema de Eleições** 
-  - **Sistema de Classificados**
+- **Monolithic Systems**:  
+  I have developed several systems using **Node.js**, **Javascript**, **Bootstrap**, **HTML** and **CSS**, including:  
+  - **E-commerce system**  
+  - **Animal adoption system**  
+  - **Election System** 
+  - **Classifieds System**
 
 - **APIs Restful**:  
-  Criei **APIs RESTful** utilizando **Node.js** e **Swagger** para documentação. Alguns exemplos incluem:  
-  - **API RESTful de Matrícula Universitária**  
-  - **API RESTful de Gestão Imobiliária**
-  - **API RESTful de Gerenciamento Interno**
+  I created **RESTful APIs** using **Node.js** and **Swagger** for documentation. Some examples include: 
+  - **RESTful University Enrollment API**   
+  - **RESTful Real Estate Management API**
+  - **RESTful Internal Management API**
 
 - **Chatbots**:  
-  Desenvolvi **Chatbots** com **Node.js** e **Dialogflow** para otimizar a experiência do usuário. Alguns projetos incluem:  
-  - **Chatbot para Loja de Roupas**  
-  - **Chatbot para Assistência Técnica**
+  I have developed **Chatbots** with **Node.js** and **Dialogflow** to optimize the user experience. Some projects include: 
+  - **Chatbot for Clothing Store** 
+  - **Chatbot for Technical Support**
  
-<h2>🚀 Aprendizado Atual:</h2>
+<h2>🚀 Current Learning:</h2>
 
-Atualmente estou aprendendo **TypeScript**, **SocketIo** e **Tailwindcss**. O objetivo é evoluir profissionalmente, explorar novas oportunidades e me aprofundar ainda mais no mundo da programação, além de ter me interessado muito pelas tecnologiás.
+I'm currently learning **TypeScript**, **SocketIo** and **Tailwindcss**. The goal is to evolve professionally, explore new opportunities and delve even deeper into the world of programming, in addition to having become very interested in technologies..
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@ Atualmente estou aprendendo **TypeScript**, **SocketIo** e **Tailwindcss**. O ob
 </div>
 
 <div align="center">
-<h2>Contato</h2>
+<h2>Contact</h2>
 <a href="https://instagram.com/luiz_duarte018" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luizduarte21" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@looduarte21"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
