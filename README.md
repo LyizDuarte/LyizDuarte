@@ -1,76 +1,80 @@
-<div>
-<h2>Hello! My name is Luiz Duarte 👋></h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LyizDuarte/LyizDuarte/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+</div>
+
+# Hello, I'm Luiz Duarte! 👋
+<p align="center">
+  <em>Full Stack Developer passionate about building efficient and scalable web solutions.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luizduarte21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contact.luizduarte21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/luiz_duarte018" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+### About Me
+
+- 👨‍💻 Developer with solid experience in creating robust and secure **monolithic systems (MVC)** and **RESTful APIs**.
+- 🚀 Focused on delivering end-to-end solutions, from a **Node.js** and **Express** back-end to responsive interfaces with **Next.js** and **Bootstrap**.
+- 💡 Experienced in developing **Chatbots** with **Dialogflow** to optimize customer service and enhance user experience.
+- 🌱 Seeking continuous growth and currently improving my skills in **TypeScript** to explore new opportunities in software development.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
   
-<h3>Full Stack Developer. Passionate about building robust and scalable solutions. Throughout my journey, I have had the opportunity to develop several monolithic systems and APIs, always seeking to improve my skills and deliver solutions that add value.</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket.io" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
 
-<h2>🌱 Experience:</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</p>
 
-- **Monolithic Systems**:  
-  I have developed several systems using **Node.js**, **Express**, **Next.js**, **Javascript**, **Bootstrap**, **EJS**, **JWT**, **Swagger**, **HTML**, **CSS**, and **MySQL**, including:  
-  - **E-commerce system**  
-  - **Animal adoption system**  
-  - **Election System** 
-  - **Classifieds System**
+---
 
-- **APIs Restful**:  
-  I created **RESTful APIs** using **Node.js**, **Javascript**, **Express**, **JWT**, **MySQL** and **Swagger** for documentation. Some examples include: 
-  - **RESTful University Enrollment API**   
-  - **RESTful Real Estate Management API**
-  - **RESTful Internal Management API**
+### ✨ My Projects
 
-- **Chatbots**:  
-  I have developed **Chatbots** with **Node.js**, **Express**, **MySQL** and **Dialogflow** to optimize the user experience. Some projects include: 
-  - **Chatbot for Clothing Store** 
-  - **Chatbot for Technical Support**
- 
-<h2>🚀 Current Learning:</h2>
+| Project | Description | Technologies | Link |
+|---|---|---|---|
+| **E-commerce System** | An MVC-based e-commerce platform with a shopping cart, filters, access permissions, and report exporting to Excel. | `Node.js`, `EJS`, `Bootstrap`, `MySQL`, `JWT` | [🔗 Repo](link-to-your-repo) |
+| **Animal Adoption System** | An MVC platform for animal adoption, allowing users to add pets, manage adoption records, and filter searches. | `Node.js`, `EJS`, `MySQL`, `JWT` | [🔗 Repo](link-to-your-repo) |
+| **Election System** | An MVC system for running elections, featuring candidate registration, secure voting, and candidate number validation. | `Node.js`, `EJS`, `MySQL`, `JWT` | [🔗 Repo](link-to-your-repo) |
+| **Classifieds System** | A responsive platform for ads with real-time messaging, authentication, and image upload features. | `Next.js`, `Socket.IO`, `CSS`, `MySQL` | [🔗 Repo](link-to-your-repo) |
+| **University Enrollment API**| A RESTful API to manage student enrollment, courses, and fees, with authentication and a transaction system. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](link-to-your-repo) |
+| **Real Estate Management API**| A RESTful API for managing properties, tenants, and rental agreements, complete with secure authentication. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](link-to-your-repo) |
+| **Internal Management API** | A RESTful API for internal use, managing employees, payroll, and salary adjustments. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](link-to-your-repo) |
+| **Clothing Store Chatbot** | A chatbot designed to assist customers with product inquiries, sizing, and style recommendations. | `Node.js`, `Express`, `Dialogflow` | [🔗 Repo](link-to-your-repo) |
+| **Technical Support Chatbot**| A chatbot integrated with Dialogflow to provide automated answers and streamline customer support. | `Node.js`, `Express`, `Dialogflow` | [🔗 Repo](link-to-your-repo) |
 
-I'm currently learning **Tailwindcss**. The goal is to evolve professionally, explore new opportunities and delve even deeper into the world of programming, in addition to having become very interested in technologies..
-</div>
+---
 
-<div align="center">
-<h2>Back-End</h2>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"  height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="40" height="40" /> 
-</div>
-
-<div align="center">
-<h2>Front-End</h2>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> <img loading="lazy "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" /> 
-</div>
-
-<div align="center">
-<h2>Learning</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-          
-</div>
+### 📈 GitHub Stats
 
 <div align="center">
-<h2>DevOps</h2>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LyizDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyizDuarte&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
-<div align="center">
-<h2>Contact</h2>
-<a href="https://instagram.com/luiz_duarte018" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luizduarte21" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@looduarte21"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<div align="center">
-<a href="https://github.com/LyizDuarte">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyizDuarte&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LyizDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LyizDuarte/LyizDuarte/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LyizDuarte/LyizDuarte/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LyizDuarte/LyizDuarte/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-          
-          
-
-          
-
