@@ -60,15 +60,15 @@
 
 | Project | Description | Technologies | Link |
 |---|---|---|---|
-| **E-commerce System** | An MVC-based e-commerce platform with a shopping cart, filters, access permissions, and report exporting to Excel. | `Node.js`, `EJS`, `Bootstrap`, `MySQL`, `JWT` | [🔗 Repo](link-to-your-repo) |
-| **Animal Adoption System** | An MVC platform for animal adoption, allowing users to add pets, manage adoption records, and filter searches. | `Node.js`, `EJS`, `MySQL`, `JWT` | [🔗 Repo](link-to-your-repo) |
-| **Election System** | An MVC system for running elections, featuring candidate registration, secure voting, and candidate number validation. | `Node.js`, `EJS`, `MySQL`, `JWT` | [🔗 Repo](link-to-your-repo) |
-| **Classifieds System** | A responsive platform for ads with real-time messaging, authentication, and image upload features. | `Next.js`, `Socket.IO`, `CSS`, `MySQL` | [🔗 Repo](link-to-your-repo) |
-| **University Enrollment API**| A RESTful API to manage student enrollment, courses, and fees, with authentication and a transaction system. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](link-to-your-repo) |
-| **Real Estate Management API**| A RESTful API for managing properties, tenants, and rental agreements, complete with secure authentication. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](link-to-your-repo) |
-| **Internal Management API** | A RESTful API for internal use, managing employees, payroll, and salary adjustments. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](link-to-your-repo) |
-| **Clothing Store Chatbot** | A chatbot designed to assist customers with product inquiries, sizing, and style recommendations. | `Node.js`, `Express`, `Dialogflow` | [🔗 Repo](link-to-your-repo) |
-| **Technical Support Chatbot**| A chatbot integrated with Dialogflow to provide automated answers and streamline customer support. | `Node.js`, `Express`, `Dialogflow` | [🔗 Repo](link-to-your-repo) |
+| **E-commerce System** | An MVC-based e-commerce platform with a shopping cart, filters, access permissions, and report exporting to Excel. | `Node.js`, `EJS`, `Bootstrap`, `MySQL`, `JWT` | [🔗 Repo](https://github.com/LyizDuarte/project-ecommerce) |
+| **Animal Adoption System** | An MVC platform for animal adoption, allowing users to add pets, manage adoption records, and filter searches. | `Node.js`, `EJS`, `MySQL`, `JWT` | [🔗 Repo](https://github.com/LyizDuarte/project-doacao-animais) |
+| **Election System** | An MVC system for running elections, featuring candidate registration, secure voting, and candidate number validation. | `Node.js`, `EJS`, `MySQL`, `JWT` | [🔗 Repo](https://github.com/LyizDuarte/project-eleicoes) |
+| **Classifieds System** | A responsive platform for ads with real-time messaging, authentication, and image upload features. | `Next.js`, `Socket.IO`, `CSS`, `MySQL` | [🔗 Repo](https://github.com/fipp-unoeste/projeto-classifipp-corinthianscript-js) |
+| **University Enrollment API**| A RESTful API to manage student enrollment, courses, and fees, with authentication and a transaction system. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](https://github.com/fipp-unoeste/unileste-api-vai_corinthians) |
+| **Real Estate Management API**| A RESTful API for managing properties, tenants, and rental agreements, complete with secure authentication. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](https://github.com/LyizDuarte/locacao-de-imoveis) |
+| **Internal Management API** | A RESTful API for internal use, managing employees, payroll, and salary adjustments. | `Node.js`, `Express`, `JWT`, `Swagger`, `MySQL` | [🔗 Repo](https://github.com/LyizDuarte/gerenciamento-interno) |
+| **Clothing Store Chatbot** | A chatbot designed to assist customers with product inquiries, sizing, and style recommendations. | `Node.js`, `Express`, `Dialogflow` | [🔗 Repo](https://github.com/LyizDuarte/BackEnd-DuarteOutlet) |
+| **Technical Support Chatbot**| A chatbot integrated with Dialogflow to provide automated answers and streamline customer support. | `Node.js`, `Express`, `Dialogflow` | [🔗 Repo](https://github.com/LyizDuarte/duarte-assistencia-tecnica-chatbot) |
 
 ---
 
