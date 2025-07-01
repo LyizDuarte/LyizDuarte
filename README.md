@@ -25,7 +25,7 @@
  
 <h2>🚀 Current Learning:</h2>
 
-I'm currently learning **TypeScript**, **SocketIo** and **Tailwindcss**. The goal is to evolve professionally, explore new opportunities and delve even deeper into the world of programming, in addition to having become very interested in technologies..
+I'm currently learning **Tailwindcss**. The goal is to evolve professionally, explore new opportunities and delve even deeper into the world of programming, in addition to having become very interested in technologies..
 </div>
 
 <div align="center">
