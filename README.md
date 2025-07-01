@@ -1,25 +1,25 @@
 <div>
 <h2>Hello! My name is Luiz Duarte 👋></h2>
   
-<h3>Systems Analysis and Development student at Universidade do Oeste Paulista (UNOESTE). Passionate about building robust and efficient solutions. Throughout my journey, I have had the opportunity to develop several monolithic systems and APIs, always seeking to improve my skills and deliver solutions that add value.</h3>
+<h3>Full Stack Developer. Passionate about building robust and scalable solutions. Throughout my journey, I have had the opportunity to develop several monolithic systems and APIs, always seeking to improve my skills and deliver solutions that add value.</h3>
 
 <h2>🌱 Experience:</h2>
 
 - **Monolithic Systems**:  
-  I have developed several systems using **Node.js**, **Javascript**, **Bootstrap**, **HTML** and **CSS**, including:  
+  I have developed several systems using **Node.js**, **Express**, **Next.js**, **Javascript**, **Bootstrap**, **EJS**, **JWT**, **Swagger**, **HTML**, **CSS**, and **MySQL**, including:  
   - **E-commerce system**  
   - **Animal adoption system**  
   - **Election System** 
   - **Classifieds System**
 
 - **APIs Restful**:  
-  I created **RESTful APIs** using **Node.js** and **Swagger** for documentation. Some examples include: 
+  I created **RESTful APIs** using **Node.js**, **Javascript**, **Express**, **JWT**, **MySQL** and **Swagger** for documentation. Some examples include: 
   - **RESTful University Enrollment API**   
   - **RESTful Real Estate Management API**
   - **RESTful Internal Management API**
 
 - **Chatbots**:  
-  I have developed **Chatbots** with **Node.js** and **Dialogflow** to optimize the user experience. Some projects include: 
+  I have developed **Chatbots** with **Node.js**, **Express**, **MySQL** and **Dialogflow** to optimize the user experience. Some projects include: 
   - **Chatbot for Clothing Store** 
   - **Chatbot for Technical Support**
  
