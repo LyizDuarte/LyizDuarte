@@ -70,6 +70,8 @@
 | **Clothing Store Chatbot** | A chatbot designed to assist customers with product inquiries, sizing, and style recommendations. | `Node.js`, `Express`, `Dialogflow`, `Webhook` | [🔗 Repo](https://github.com/LyizDuarte/BackEnd-DuarteOutlet) |
 | **Technical Support Chatbot**| A chatbot integrated with Dialogflow to provide automated answers and streamline customer support. | `Node.js`, `Express`, `Dialogflow`, `Webhook` | [🔗 Repo](https://github.com/LyizDuarte/duarte-assistencia-tecnica-chatbot) |
 | **Cart**| Functionality within an ERP system that optimizes the process of acquiring goods and services from product suppliers | `React.js`, `Bootstrap`, `Python`, `Flask`, `MiraklAPI` | [Private Repository]() |
+| **Ellis**| A RESTful API that provides endpoints for managing students, courses and classes in an educational institution. It allows you to perform different operations on each of these entities. | `FastAPI`, `SQLAlchemy`, `SQLite`, `Docker`, `Google Cloud` | [🔗 Repo](https://github.com/LyizDuarte/ellis) |
+| **Email Classifier**| Digital solution for automatic email classification, developed for companies in the financial sector that deal with a high volume of emails on a daily basis. | `HTML`, `CSS`, `Javascript`, `Python`, `FastAPI`, `NLTK`, `textblob`, `scikit-learn`, `pyPDF` | [🔗 Repo](https://github.com/LyizDuarte/autoU-case)) |
 ---
 
 ### 📈 GitHub Stats
